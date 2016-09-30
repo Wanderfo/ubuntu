@@ -1,14 +1,14 @@
 # How to install cuda on your PC
 
 ## Download cuda
-[raw link](https://developer.nvidia.com/cuda-downloads) chose your Operating System Architecture
+Chose your Operating System Architecture [raw link](https://developer.nvidia.com/cuda-downloads) 
 Distribution Version and Installer Type like this 
 ![download](download.png)
 
 ## Install
-Follow the prompt message to install
-Only supported platforms will be shown
-I recommended you use runfile to install cuda, else countless pits ahead
+* Follow the prompt message to install
+* Only supported platforms will be shown
+* I recommended you use runfile to install cuda, else countless pits ahead
 
 ### runfile 
 1. `sudo sh cuda_8.0.44_linux.run`
