@@ -18,6 +18,7 @@ I recommended you use runfile to install cuda, else countless pits ahead
 > * You show be install the nvidia driver first. Use cuda to install the driver may cause failure
 > Install NVIDIA Accelerated Graphics Driver for Linux-x86_64 361.62?\
 >(y)es/(n)o/(q)uit: **n**
+
 ### deb package
 ```
 sudo dpkg -i cuda-repo-ubuntu1404-8-0-local_8.044-1.deb
