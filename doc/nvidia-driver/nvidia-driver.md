@@ -14,4 +14,4 @@ Then accept the license and others chose the default
 > NOTE: If you use HDMI, there maybe no signal on your monitor
 
 Reboot and you will find the dirver had been ready like this
-![driver_ready](dirver_ready.img)
+![driver_ready](dirver_ready.png)
